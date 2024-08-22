@@ -1,0 +1,7 @@
+# Add the json keyfile and replace the following values.
+
+service_account=<service_account@project.iam.gserviceaccount.com>
+service_account_keyfile_name=<project-rando.json>
+service_account_project=<project>
+path_to_google_cloud_sdk=<objective path to google-cloud-sdk>
+gcloud_auth=<objective path to gcloud_auth>
